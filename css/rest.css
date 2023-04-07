@@ -1,0 +1,181 @@
+
+
+.rest2 b{
+   
+    color: brown;
+    margin-top: 40px;
+    margin-left: 30px;
+
+}
+
+.rest2
+{
+    margin-top: 50px;
+    margin-left: 70px;
+    float: left;
+    
+}
+
+.rest2 form{
+ 
+ 
+ height: 600px;
+ width: 850px;
+ background-color:#fff;
+
+ 
+ 
+ 
+}
+
+.rest2 form input[type=text] {
+        
+    padding: 10px;
+  margin: 10px 0 15px 0;
+  display: inline-block;
+   border: none;
+   background: #f1f1f1;
+   height: 35px;
+  width: 300px;
+  }
+.rest2 form select{
+  
+    padding: 10px;
+    margin: 10px 0 15px 0;
+    display: inline-block;
+     border: none;
+     background: #f1f1f1;
+     height: 40px;
+    width: 300px;
+   
+}
+
+.register form select:focus{
+    background-color: #c1c1c1;
+    opacity: 1;
+    outline: none;
+}
+
+.register form input[type="submit"]{
+    width: 200px;
+    height: 40px;
+    align-items: center;
+    margin-left: 50px;
+    background-color:orangered;
+    border: #fff;
+    margin-left: 300px;
+    border-radius: 10px;
+    color: #fff;
+}
+
+
+body{
+    height: 1200px;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    font-family : Calibri, Helvetica, sans-serif;
+
+    background-color: rgb(222,220,224);
+}
+
+.info{
+
+    height: 120px;
+    width: 400px;
+   background-color:#fff;
+   margin-top: 50px;
+   margin-left: 100px;
+   float: left;
+}
+
+.sub-info{
+    height: 35px;
+    width: 400px;
+    background-color: #C1C1C1;
+    display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+.info2
+{
+    text-align:center;
+    font-size:small;
+    height: 120px;
+}
+
+.login
+{
+    height: 445px;
+    width: 400px;
+    background-color: #fff;
+}
+
+.part1
+{
+    height: 80px;
+    width: 400px;
+    background-color: #C1C1C1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.part2
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+input[type=text]:focus {
+    background-color: #c1c1c1;
+    opacity: 1;
+    outline: none;
+    
+    }
+
+.part2 form input{
+    height: 35px;
+    width: 300px;
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.part2 form input[type="button"]
+{
+    height: 35px;
+    width: 200px;
+    background-color:orangered;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: #fff;
+    margin-left: 60px;
+    border-radius: 10px;
+    color: #fff;
+}
+
+.part2 form input[type="checkbox"]
+{
+
+    height: 15px;
+    width: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    float: left;
+
+}
+
+.part2 form label
+{
+    margin-top: 35px;
+     margin-left: 15px;
+}

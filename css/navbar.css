@@ -1,0 +1,63 @@
+
+.navbar
+{
+    overflow: hidden;
+    position: sticky;
+    background-color:#28282B;
+    height: 50px;
+}
+.nav-link
+{
+    color: #fff;
+   
+   
+}
+.h3
+{
+    font-weight: bolder;
+    font-size: 10px;
+    text-decoration: solid;
+    
+    
+}
+
+.nav-link.active-link
+{
+    color:#fff;
+    text-decoration: solid;
+   
+}
+
+.text
+{
+    color: #fff;
+}
+/*.nav-item1 a
+{
+    text-decoration: none;
+    background-color:#fff;
+    color: #34495E;
+    padding: 8px 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: large;
+    
+}
+
+.nav-item1 a:hover
+{
+    background-color:#515A5A;
+    color: #fff;
+    
+
+}*/
+
+.navbar1
+{
+
+    overflow: hidden;
+    position:sticky;
+    background-color:orangered;
+    height: 10px;
+
+}

@@ -1,0 +1,131 @@
+body{
+    background-color: rgb(222, 220, 224);
+    font-family : Calibri, Helvetica, sans-serif;
+    /* height: 1200px; */
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+
+    }
+    
+ .job2 form input[type=text] {
+        
+        padding: 10px;
+      margin: 10px 0 15px 0;
+      display: inline-block;
+       border: none;
+       background: #f1f1f1;
+       height: 35px;
+      width: 300px;
+      }
+
+
+     .job2 form  select
+      {
+        height: 35px;
+      width: 300px;
+      }
+
+
+
+    
+     .job2 form input[type=text]:focus {
+        background-color: #c1c1c1;
+        opacity: 1;
+        outline: none;
+        
+        }
+    
+      .job1 {
+      
+        padding: 80px;
+        background-color: #fff;
+        margin-top: 50px;
+        width: 650px;
+      
+        }
+     
+
+        
+    .job2 form input[type="submit"]{
+        margin-left: 14%;
+        background-color:orangered;
+        color: white;
+        opacity: 0.9;
+        cursor: pointer;
+        border: none;
+        width: 15%;
+        height:35px;
+        margin-left: 200px;
+        margin-top: 20px;
+      
+    }
+    
+    .job2 form input[type="submit"]:hover{
+        opacity: 1;
+        }
+    
+    .job2 form h2{
+        font-family: "myFont", "Bitstream Vera Serif", serif;
+        display:flex;
+        justify-content: center;
+        margin-left: -10px;
+        margin-bottom: 20px;
+        margin-top: 0px;
+        width: 50%;
+        font-size: 42px;
+    }
+    
+    /* 
+    body{
+    font-family: Calibri, Helvetica, sans-serif;
+    background-color: white;
+    }
+    .container {
+    padding: 50px;
+    background-color: lightblue;
+    }
+    
+    input[type=text] {
+      width: 100%;
+      padding: 15px;
+    margin: 0px 0 10px 0;
+    display: inline-block;
+     border: none;
+     background: #f1f1f1;
+    }
+    
+    input[type=text]:focus {
+    background-color: orange;
+    outline: none;
+    }
+     
+    .addjobbtn {
+      background-color: #4CAF50;
+      color: white;
+      padding: 16px 20px;
+      margin: 8px 0;
+      border: none;
+      cursor: pointer;
+      width: 100%;
+      opacity: 0.9;
+    }
+    .removejobbtn{
+        background-color: #4CAF50;
+        color: white;
+        padding: 16px 20px;
+        margin: 8px 0;
+        border: none;
+        cursor: pointer;
+        width: 100%;
+        opacity: 0.9;
+    }
+    
+    .addjobbtn:hover {
+    opacity: 1;
+    }
+    
+    .removejobbtn:hover {
+        opacity: 1;
+        }
+         */
